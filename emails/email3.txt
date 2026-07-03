@@ -1,0 +1,13 @@
+Subject: Invoice #2045 Payment Reminder
+
+Hi Dhruv,
+
+This is a reminder that Invoice #2045 for $750 was due three days ago.
+
+Please complete the payment at your earliest convenience to avoid late fees.
+
+If you've already made the payment, kindly ignore this message.
+
+Thanks,
+Accounts Team
+CloudHost Inc.
